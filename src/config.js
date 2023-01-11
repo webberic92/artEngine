@@ -12,12 +12,11 @@ const baseUri = "https://devilcatz.s3.us-east-2.amazonaws.com/images"; //https:/
 const original_image =
   "https://devilcatz.s3.us-east-2.amazonaws.com/images/DevilCats.png";
 
- //Set up this later.
+//Set up this later.
 const animation_url =
   "https://pnmhsm44k7.execute-api.us-east-2.amazonaws.com/toonStage/?id=";
 
-const pixelBaseUri = "https://devilcatz.s3.us-east-2.amazonaws.com/A";//https://toonverse.s3.amazonaws.com/pixel_images/A
-
+const pixelBaseUri = "https://devilcatz.s3.us-east-2.amazonaws.com/A"; //https://toonverse.s3.amazonaws.com/pixel_images/A
 
 const solanaMetadata = {
   symbol: "TV",
@@ -34,19 +33,15 @@ const solanaMetadata = {
 // If you have selected Solana then the collection starts from 0 automatically
 const layerConfigurations = [
   {
-    growEditionSizeTo: 6666,
+    growEditionSizeTo: 2222,
     layersOrder: [
       { name: "Background" },
-      { name: "EyeColor" },
-      { name: "Skin" },
-      { name: "Eyes" },
-      { name: "Mouths" },
+      { name: "Body" },
+      { name: "Head" },
+      { name: "LeftEye" },
+      { name: "Mouth" },
       { name: "Nose" },
-      { name: "RightHand" },
-      { name: "Pants" },
-      { name: "Shirt" },
-      { name: "LeftHand" },
-      { name: "Hat" },
+      { name: "RightEye" }
     ],
   },
 ];
@@ -64,8 +59,8 @@ const format = {
 const gif = {
   export: false,
   repeat: 0,
-  quality: 100,
-  delay: 500,
+  quality: 50,
+  delay: 1000,
 };
 
 const text = {

@@ -1,0 +1,41 @@
+{
+  "name": "Toonverse #63",
+  "description": "The Catz are the genesis collection, they acquire benefits from all subsequent Toonverse collections. Revenue-sharing and sizable dividend disbursement are game for the most devoted investors, all funded from future project endeavors! In other words, those who represent the Devil Cats community will receive these dividends from future ToonVerse creations, mini collections, 1 of 1 collections, and “ArtPad” launch projects that get accepted.",
+  "image": "https://devilcatz.s3.us-east-2.amazonaws.com/images/63.png",
+  "pixel": "https://devilcatz.s3.us-east-2.amazonaws.com/A/63.png",
+  "animation_url": "https://pnmhsm44k7.execute-api.us-east-2.amazonaws.com/toonStage/?id=63",
+  "original_image": "https://devilcatz.s3.us-east-2.amazonaws.com/images/DevilCats.png",
+  "dna": "ced4843741b0f2798d86c2fc1f577333994048a3",
+  "edition": 63,
+  "date": 1673409457366,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Snot"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Grimy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Apple Gremlin"
+    },
+    {
+      "trait_type": "LeftEye",
+      "value": "Crying"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smeared Lipstick"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "RightEye",
+      "value": "Goofy"
+    }
+  ]
+}

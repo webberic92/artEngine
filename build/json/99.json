@@ -1,0 +1,41 @@
+{
+  "name": "Toonverse #99",
+  "description": "The Catz are the genesis collection, they acquire benefits from all subsequent Toonverse collections. Revenue-sharing and sizable dividend disbursement are game for the most devoted investors, all funded from future project endeavors! In other words, those who represent the Devil Cats community will receive these dividends from future ToonVerse creations, mini collections, 1 of 1 collections, and “ArtPad” launch projects that get accepted.",
+  "image": "https://devilcatz.s3.us-east-2.amazonaws.com/images/99.png",
+  "pixel": "https://devilcatz.s3.us-east-2.amazonaws.com/A/99.png",
+  "animation_url": "https://pnmhsm44k7.execute-api.us-east-2.amazonaws.com/toonStage/?id=99",
+  "original_image": "https://devilcatz.s3.us-east-2.amazonaws.com/images/DevilCats.png",
+  "dna": "44bc35fb3acd835fdeb98ea6033fdca8975cf475",
+  "edition": 99,
+  "date": 1673409473398,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Bruise"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Point"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Grapes Green"
+    },
+    {
+      "trait_type": "LeftEye",
+      "value": "PlayDoh"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pink Lips"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Pig Green"
+    },
+    {
+      "trait_type": "RightEye",
+      "value": "X"
+    }
+  ]
+}

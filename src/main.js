@@ -76,6 +76,8 @@ const getElements = (path) => {
     .filter((item) => !/(^|\/)\.[^\/\.]/g.test(item))
     .map((i, index) => {
       if (i.includes("-")) {
+        console.log(i)
+
         throw new Error(`layer name can not contain dashes, please fix: ${i}`);
       }
       return {
@@ -89,7 +91,9 @@ const getElements = (path) => {
 };
 
 const layersSetup = (layersOrder) => {
-  const layers = layersOrder.map((layerObj, index) => ({
+  console.log(layersOrder)
+
+  const layers = layersOrder.map((layerObj, index) => (    {
     id: index,
     elements: getElements(`${layersDir}/${layerObj.name}/`),
     name:
@@ -109,6 +113,7 @@ const layersSetup = (layersOrder) => {
         ? layerObj.options?.["bypassDNA"]
         : false,
   }));
+
   return layers;
 };
 

@@ -1,0 +1,41 @@
+{
+  "name": "Toonverse #82",
+  "description": "The Catz are the genesis collection, they acquire benefits from all subsequent Toonverse collections. Revenue-sharing and sizable dividend disbursement are game for the most devoted investors, all funded from future project endeavors! In other words, those who represent the Devil Cats community will receive these dividends from future ToonVerse creations, mini collections, 1 of 1 collections, and “ArtPad” launch projects that get accepted.",
+  "image": "https://devilcatz.s3.us-east-2.amazonaws.com/images/82.png",
+  "pixel": "https://devilcatz.s3.us-east-2.amazonaws.com/A/82.png",
+  "animation_url": "https://pnmhsm44k7.execute-api.us-east-2.amazonaws.com/toonStage/?id=82",
+  "original_image": "https://devilcatz.s3.us-east-2.amazonaws.com/images/DevilCats.png",
+  "dna": "5b4dc8e9d00d6d27d1100a19dfa72547fc1878b8",
+  "edition": 82,
+  "date": 1673409465988,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Hash"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Point"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Banana"
+    },
+    {
+      "trait_type": "LeftEye",
+      "value": "Button"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vampire"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Bone"
+    },
+    {
+      "trait_type": "RightEye",
+      "value": "Hollow Gremlin"
+    }
+  ]
+}
