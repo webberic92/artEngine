@@ -1,0 +1,16 @@
+{
+  "name": "Toonverse #63",
+  "description": "The Catz are the genesis collection, they acquire benefits from all subsequent Toonverse collections. Revenue-sharing and sizable dividend disbursement are game for the most devoted investors, all funded from future project endeavors! In other words, those who represent the Devil Cats community will receive these dividends from future ToonVerse creations, mini collections, 1 of 1 collections, and “ArtPad” launch projects that get accepted.",
+  "image": "https://toonverse.s3.amazonaws.com/63.png",
+  "pixel": "https://toonverse.s3.amazonaws.com/pixel_images/A/63.png",
+  "animation_url": "https://vnm6m38fj2.execute-api.us-east-1.amazonaws.com/getToon/?id=63",
+  "original_image": "https://toonverse.s3.amazonaws.com/default.png",
+  "edition": 1,
+  "date": 1665961392734,
+  "attributes": [
+    {
+      "trait_type": "1:1",
+      "value": "Custom Cat"
+    }
+  ]
+}
