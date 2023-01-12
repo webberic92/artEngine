@@ -11,7 +11,7 @@ let rawdata = fs.readFileSync(`${basePath}/build/json/_metadata.json`);
 let data = JSON.parse(rawdata);
 let editionSize = data.length;
 
-let rarityData = [];
+let rarityData = []
 
 // intialize layers to chart
 layerConfigurations.forEach((config) => {

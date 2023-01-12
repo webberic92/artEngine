@@ -5,43 +5,43 @@ const { NETWORK } = require(`${basePath}/constants/network.js`);
 const network = NETWORK.eth;
 
 // General metadata for Ethereum
-const namePrefix = "Toonverse";
+const namePrefix = "FruitTownGremlins.WTFruit";
 const description =
-  "The Catz are the genesis collection, they acquire benefits from all subsequent Toonverse collections. Revenue-sharing and sizable dividend disbursement are game for the most devoted investors, all funded from future project endeavors! In other words, those who represent the Devil Cats community will receive these dividends from future ToonVerse creations, mini collections, 1 of 1 collections, and “ArtPad” launch projects that get accepted.";
-const baseUri = "https://devilcatz.s3.us-east-2.amazonaws.com/images"; //https://toonverse.s3.amazonaws.com
+  "(⌐■_■) FruitTownGremlins.WTFruit by ToonverseStudios. (⌐■_■)";
+const baseUri = "https://fruittown.s3.us-east-2.amazonaws.com/images"; //https://toonverse.s3.amazonaws.com
 const original_image =
-  "https://devilcatz.s3.us-east-2.amazonaws.com/images/DevilCats.png";
+  "https://fruittown.s3.us-east-2.amazonaws.com/images/ftgbanner.png";
 
 //Set up this later.
-const animation_url =
-  "https://pnmhsm44k7.execute-api.us-east-2.amazonaws.com/toonStage/?id=";
+// const animation_url =
+//   "https://pnmhsm44k7.execute-api.us-east-2.amazonaws.com/toonStage/?id=";
 
-const pixelBaseUri = "https://devilcatz.s3.us-east-2.amazonaws.com/A"; //https://toonverse.s3.amazonaws.com/pixel_images/A
+// const pixelBaseUri = "https://devilcatz.s3.us-east-2.amazonaws.com/A"; //https://toonverse.s3.amazonaws.com/pixel_images/A
 
-const solanaMetadata = {
-  symbol: "TV",
-  seller_fee_basis_points: 1000, // Define how much % you want from secondary market sales 1000 = 10%
-  // external_url: "https://www.youtube.com/c/hashlipsnft",
-  creators: [
-    {
-      address: "0x1eC686856cBD57d732bc02Dc76FA8D7189c16264",
-      share: 100,
-    },
-  ],
-};
+// const solanaMetadata = {
+//   symbol: "TV",
+//   seller_fee_basis_points: 1000, // Define how much % you want from secondary market sales 1000 = 10%
+//   // external_url: "https://www.youtube.com/c/hashlipsnft",
+//   creators: [
+//     {
+//       address: "0x1eC686856cBD57d732bc02Dc76FA8D7189c16264",
+//       share: 100,
+//     },
+//   ],
+// };
 
 // If you have selected Solana then the collection starts from 0 automatically
 const layerConfigurations = [
   {
-    growEditionSizeTo: 2222,
+    growEditionSizeTo: 4444,
     layersOrder: [
       { name: "Background" },
       { name: "Body" },
       { name: "Head" },
       { name: "LeftEye" },
+      { name: "RightEye" },
       { name: "Mouth" },
       { name: "Nose" },
-      { name: "RightEye" }
     ],
   },
 ];
@@ -112,9 +112,7 @@ const preview_gif = {
 module.exports = {
   format,
   baseUri,
-  pixelBaseUri,
   original_image,
-  animation_url,
   description,
   background,
   uniqueDnaTorrance,
@@ -128,7 +126,6 @@ module.exports = {
   text,
   namePrefix,
   network,
-  solanaMetadata,
   gif,
   preview_gif,
 };
