@@ -1,41 +1,39 @@
 {
-  "name": "Toonverse #4",
-  "description": "The Catz are the genesis collection, they acquire benefits from all subsequent Toonverse collections. Revenue-sharing and sizable dividend disbursement are game for the most devoted investors, all funded from future project endeavors! In other words, those who represent the Devil Cats community will receive these dividends from future ToonVerse creations, mini collections, 1 of 1 collections, and “ArtPad” launch projects that get accepted.",
-  "image": "https://devilcatz.s3.us-east-2.amazonaws.com/images/4.png",
-  "pixel": "https://devilcatz.s3.us-east-2.amazonaws.com/A/4.png",
-  "animation_url": "https://pnmhsm44k7.execute-api.us-east-2.amazonaws.com/toonStage/?id=4",
-  "original_image": "https://devilcatz.s3.us-east-2.amazonaws.com/images/DevilCats.png",
-  "dna": "bfc6a1d03b6ef5cf8d6d3364149c338978481647",
+  "name": "FruitTownGremlins.WTFruit #4",
+  "description": "(⌐■_■) FruitTownGremlins.WTFruit by ToonVerseStudios. (⌐■_■)",
+  "image": "https://fruittown.s3.us-east-2.amazonaws.com/images/4.png",
+  "original_image": "https://fruittown.s3.us-east-2.amazonaws.com/images/ftgbanner.png",
+  "dna": "a37dd8494ac1f24e78b47e32119e288294792c28",
   "edition": 4,
-  "date": 1673409432968,
+  "date": 1673584292747,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Barf"
+      "value": "Brain Juice"
     },
     {
       "trait_type": "Body",
-      "value": "Skell"
+      "value": "Grem Wings Green"
     },
     {
       "trait_type": "Head",
-      "value": "Grapes Green"
+      "value": "Peach Gremlin"
     },
     {
       "trait_type": "LeftEye",
-      "value": "Crying"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Gremlin Tongue"
-    },
-    {
-      "trait_type": "Nose",
-      "value": "Purple"
+      "value": "Twirl"
     },
     {
       "trait_type": "RightEye",
-      "value": "Pretty"
+      "value": "Drippy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wavy"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Hairy Green"
     }
   ]
 }

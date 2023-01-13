@@ -7,7 +7,7 @@ const network = NETWORK.eth;
 // General metadata for Ethereum
 const namePrefix = "FruitTownGremlins.WTFruit";
 const description =
-  "(⌐■_■) FruitTownGremlins.WTFruit by ToonverseStudios. (⌐■_■)";
+  "(⌐■_■) FruitTownGremlins.WTFruit by ToonVerseStudios. (⌐■_■)";
 const baseUri = "https://fruittown.s3.us-east-2.amazonaws.com/images"; //https://toonverse.s3.amazonaws.com
 const original_image =
   "https://fruittown.s3.us-east-2.amazonaws.com/images/ftgbanner.png";

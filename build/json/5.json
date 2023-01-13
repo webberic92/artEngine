@@ -1,41 +1,39 @@
 {
-  "name": "Toonverse #5",
-  "description": "The Catz are the genesis collection, they acquire benefits from all subsequent Toonverse collections. Revenue-sharing and sizable dividend disbursement are game for the most devoted investors, all funded from future project endeavors! In other words, those who represent the Devil Cats community will receive these dividends from future ToonVerse creations, mini collections, 1 of 1 collections, and “ArtPad” launch projects that get accepted.",
-  "image": "https://devilcatz.s3.us-east-2.amazonaws.com/images/5.png",
-  "pixel": "https://devilcatz.s3.us-east-2.amazonaws.com/A/5.png",
-  "animation_url": "https://pnmhsm44k7.execute-api.us-east-2.amazonaws.com/toonStage/?id=5",
-  "original_image": "https://devilcatz.s3.us-east-2.amazonaws.com/images/DevilCats.png",
-  "dna": "47db8d16765af0598ffa15a57111e32bd8e353d9",
+  "name": "FruitTownGremlins.WTFruit #5",
+  "description": "(⌐■_■) FruitTownGremlins.WTFruit by ToonVerseStudios. (⌐■_■)",
+  "image": "https://fruittown.s3.us-east-2.amazonaws.com/images/5.png",
+  "original_image": "https://fruittown.s3.us-east-2.amazonaws.com/images/ftgbanner.png",
+  "dna": "b399829a2a6a9748372064f1c85b109e74849f6c",
   "edition": 5,
-  "date": 1673409433428,
+  "date": 1673584293138,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Acid"
+      "value": "Barf"
     },
     {
       "trait_type": "Body",
-      "value": "Skell"
+      "value": "Point Nugget"
     },
     {
       "trait_type": "Head",
-      "value": "Banana Crown"
+      "value": "Peach Gremlin Crown"
     },
     {
       "trait_type": "LeftEye",
-      "value": "Exhausted"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Old"
-    },
-    {
-      "trait_type": "Nose",
-      "value": "Bone"
+      "value": "Squared"
     },
     {
       "trait_type": "RightEye",
-      "value": "Cyborg"
+      "value": "Hollow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gremlin the Grey"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "JackO"
     }
   ]
 }

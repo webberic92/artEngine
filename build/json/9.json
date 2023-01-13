@@ -1,29 +1,31 @@
 {
-  "name": "Toonverse #9",
-  "description": "The Catz are the genesis collection, they acquire benefits from all subsequent Toonverse collections. Revenue-sharing and sizable dividend disbursement are game for the most devoted investors, all funded from future project endeavors! In other words, those who represent the Devil Cats community will receive these dividends from future ToonVerse creations, mini collections, 1 of 1 collections, and “ArtPad” launch projects that get accepted.",
-  "image": "https://devilcatz.s3.us-east-2.amazonaws.com/images/9.png",
-  "pixel": "https://devilcatz.s3.us-east-2.amazonaws.com/A/9.png",
-  "animation_url": "https://pnmhsm44k7.execute-api.us-east-2.amazonaws.com/toonStage/?id=9",
-  "original_image": "https://devilcatz.s3.us-east-2.amazonaws.com/images/DevilCats.png",
-  "dna": "000d037bafc1c39cecfecf13d7ab8e937f1baa9e",
+  "name": "FruitTownGremlins.WTFruit #9",
+  "description": "(⌐■_■) FruitTownGremlins.WTFruit by ToonVerseStudios. (⌐■_■)",
+  "image": "https://fruittown.s3.us-east-2.amazonaws.com/images/9.png",
+  "original_image": "https://fruittown.s3.us-east-2.amazonaws.com/images/ftgbanner.png",
+  "dna": "99c052c3fef284c7e569e0b38199a15b8c7ae6f0",
   "edition": 9,
-  "date": 1673409435155,
+  "date": 1673584294622,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Acid"
+      "value": "Brain Juice"
     },
     {
       "trait_type": "Body",
-      "value": "Troll"
+      "value": "Posh"
     },
     {
       "trait_type": "Head",
-      "value": "Apple"
+      "value": "Apple Gremlin Crown"
     },
     {
       "trait_type": "LeftEye",
-      "value": "Exhausted"
+      "value": "Twirl"
+    },
+    {
+      "trait_type": "RightEye",
+      "value": "Cyborg"
     },
     {
       "trait_type": "Mouth",
@@ -31,11 +33,7 @@
     },
     {
       "trait_type": "Nose",
-      "value": "Arrow"
-    },
-    {
-      "trait_type": "RightEye",
-      "value": "Big Toon"
+      "value": "Red"
     }
   ]
 }

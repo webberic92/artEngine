@@ -1,41 +1,39 @@
 {
-  "name": "Toonverse #6",
-  "description": "The Catz are the genesis collection, they acquire benefits from all subsequent Toonverse collections. Revenue-sharing and sizable dividend disbursement are game for the most devoted investors, all funded from future project endeavors! In other words, those who represent the Devil Cats community will receive these dividends from future ToonVerse creations, mini collections, 1 of 1 collections, and “ArtPad” launch projects that get accepted.",
-  "image": "https://devilcatz.s3.us-east-2.amazonaws.com/images/6.png",
-  "pixel": "https://devilcatz.s3.us-east-2.amazonaws.com/A/6.png",
-  "animation_url": "https://pnmhsm44k7.execute-api.us-east-2.amazonaws.com/toonStage/?id=6",
-  "original_image": "https://devilcatz.s3.us-east-2.amazonaws.com/images/DevilCats.png",
-  "dna": "8f827d9ca4cf7fd47b2c797a4feea0642178f156",
+  "name": "FruitTownGremlins.WTFruit #6",
+  "description": "(⌐■_■) FruitTownGremlins.WTFruit by ToonVerseStudios. (⌐■_■)",
+  "image": "https://fruittown.s3.us-east-2.amazonaws.com/images/6.png",
+  "original_image": "https://fruittown.s3.us-east-2.amazonaws.com/images/ftgbanner.png",
+  "dna": "c29b9b8bcd0d757eda3c77eb4ca6466b3ee6350a",
   "edition": 6,
-  "date": 1673409433774,
+  "date": 1673584293501,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Brain Juice"
+      "value": "Barf"
     },
     {
       "trait_type": "Body",
-      "value": "Square up"
+      "value": "Grimy"
     },
     {
       "trait_type": "Head",
-      "value": "Lemon Crown"
+      "value": "Pineapple"
     },
     {
       "trait_type": "LeftEye",
-      "value": "Twirl"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Pink Lips"
-    },
-    {
-      "trait_type": "Nose",
-      "value": "Pig Green"
+      "value": "Squared"
     },
     {
       "trait_type": "RightEye",
-      "value": "Cyborg"
+      "value": "Hollow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wavy"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Purple"
     }
   ]
 }

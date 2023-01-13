@@ -1,41 +1,39 @@
 {
-  "name": "Toonverse #10",
-  "description": "The Catz are the genesis collection, they acquire benefits from all subsequent Toonverse collections. Revenue-sharing and sizable dividend disbursement are game for the most devoted investors, all funded from future project endeavors! In other words, those who represent the Devil Cats community will receive these dividends from future ToonVerse creations, mini collections, 1 of 1 collections, and “ArtPad” launch projects that get accepted.",
-  "image": "https://devilcatz.s3.us-east-2.amazonaws.com/images/10.png",
-  "pixel": "https://devilcatz.s3.us-east-2.amazonaws.com/A/10.png",
-  "animation_url": "https://pnmhsm44k7.execute-api.us-east-2.amazonaws.com/toonStage/?id=10",
-  "original_image": "https://devilcatz.s3.us-east-2.amazonaws.com/images/DevilCats.png",
-  "dna": "481f67bf5bbe81c82cb829aa7c7f8ce0c44be843",
+  "name": "FruitTownGremlins.WTFruit #10",
+  "description": "(⌐■_■) FruitTownGremlins.WTFruit by ToonVerseStudios. (⌐■_■)",
+  "image": "https://fruittown.s3.us-east-2.amazonaws.com/images/10.png",
+  "original_image": "https://fruittown.s3.us-east-2.amazonaws.com/images/ftgbanner.png",
+  "dna": "311fc8d99017630ccbb99f754d387734d44e460c",
   "edition": 10,
-  "date": 1673409435680,
+  "date": 1673584295131,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Nuclear"
+      "value": "Acid"
     },
     {
       "trait_type": "Body",
-      "value": "Point"
+      "value": "Grem Wings Green"
     },
     {
       "trait_type": "Head",
-      "value": "Dragonfruit Crown"
+      "value": "Watermelon Gremlin Crown"
     },
     {
       "trait_type": "LeftEye",
-      "value": "Judgemental"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Tongue Out"
-    },
-    {
-      "trait_type": "Nose",
-      "value": "Bone"
+      "value": "Exhausted"
     },
     {
       "trait_type": "RightEye",
-      "value": "Scaredy"
+      "value": "X"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Olantern "
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Bulbous Putple"
     }
   ]
 }

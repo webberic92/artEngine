@@ -1,41 +1,39 @@
 {
-  "name": "Toonverse #8",
-  "description": "The Catz are the genesis collection, they acquire benefits from all subsequent Toonverse collections. Revenue-sharing and sizable dividend disbursement are game for the most devoted investors, all funded from future project endeavors! In other words, those who represent the Devil Cats community will receive these dividends from future ToonVerse creations, mini collections, 1 of 1 collections, and “ArtPad” launch projects that get accepted.",
-  "image": "https://devilcatz.s3.us-east-2.amazonaws.com/images/8.png",
-  "pixel": "https://devilcatz.s3.us-east-2.amazonaws.com/A/8.png",
-  "animation_url": "https://pnmhsm44k7.execute-api.us-east-2.amazonaws.com/toonStage/?id=8",
-  "original_image": "https://devilcatz.s3.us-east-2.amazonaws.com/images/DevilCats.png",
-  "dna": "df1394c09605b1a8e0086b35dc2969f0c52f2e06",
+  "name": "FruitTownGremlins.WTFruit #8",
+  "description": "(⌐■_■) FruitTownGremlins.WTFruit by ToonVerseStudios. (⌐■_■)",
+  "image": "https://fruittown.s3.us-east-2.amazonaws.com/images/8.png",
+  "original_image": "https://fruittown.s3.us-east-2.amazonaws.com/images/ftgbanner.png",
+  "dna": "f3a2b015fa15f260094e5b66befddbf87e8221ff",
   "edition": 8,
-  "date": 1673409434705,
+  "date": 1673584294261,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Bruise"
+      "value": "Barf"
     },
     {
       "trait_type": "Body",
-      "value": "Posh"
+      "value": "Posh Wings"
     },
     {
       "trait_type": "Head",
-      "value": "Kiwano Gremlin"
+      "value": "Dragonfruit"
     },
     {
       "trait_type": "LeftEye",
       "value": "Little Toon"
     },
     {
+      "trait_type": "RightEye",
+      "value": "Drippy"
+    },
+    {
       "trait_type": "Mouth",
-      "value": "Vampire"
+      "value": "Gremlin the Grey"
     },
     {
       "trait_type": "Nose",
-      "value": "Hairy Lavender"
-    },
-    {
-      "trait_type": "RightEye",
-      "value": "Pretty"
+      "value": "Fork"
     }
   ]
 }
