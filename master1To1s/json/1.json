@@ -11,8 +11,14 @@
     {
       "trait_type": "1:1",
       "value": "Custom Cat"
+    },
+    {
+      "trait_type": "CrazyCloudClan",
+      "value": "Snowy"
+    },
+    {
+      "trait_type": "FruitTownGremlins.Wtf",
+      "value": "Pear"
     }
-  ],
-  "cloudName": "Rainy",
-  "cloudUrl": "https://devilcatz.s3.us-east-2.amazonaws.com/images/Rainy.png"
+  ]
 }

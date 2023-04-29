@@ -1,9 +1,9 @@
 {
-  "name": "Toonverse #456",
+  "name": "Toonverse #1848",
   "description": "The Catz are the genesis collection, they acquire benefits from all subsequent Toonverse collections. Revenue-sharing and sizable dividend disbursement are game for the most devoted investors, all funded from future project endeavors! In other words, those who represent the Devil Cats community will receive these dividends from future ToonVerse creations, mini collections, 1 of 1 collections, and “ArtPad” launch projects that get accepted.",
-  "image": "https://devilcatz.s3.us-east-2.amazonaws.com/images/456.png",
-  "pixel": "https://devilcatz.s3.us-east-2.amazonaws.com/A/456.png",
-  "animation_url": "https://pnmhsm44k7.execute-api.us-east-2.amazonaws.com/toonStage/?id=456",
+  "image": "https://devilcatz.s3.us-east-2.amazonaws.com/images/1848.png",
+  "pixel": "https://devilcatz.s3.us-east-2.amazonaws.com/A/1848.png",
+  "animation_url": "https://pnmhsm44k7.execute-api.us-east-2.amazonaws.com/toonStage/?id=1848",
   "original_image": "https://devilcatz.s3.us-east-2.amazonaws.com/images/DevilCats.png",
   "edition": 1,
   "date": 1665961392734,
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "CrazyCloudClan",
-      "value": "Lightning"
+      "value": "Sunny"
     },
     {
       "trait_type": "FruitTownGremlins.Wtf",
-      "value": "Dragonfruit"
+      "value": "Banana"
     }
   ]
 }

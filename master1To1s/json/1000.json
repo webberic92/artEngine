@@ -1,16 +1,24 @@
 {
   "name": "Toonverse #1000",
   "description": "The Catz are the genesis collection, they acquire benefits from all subsequent Toonverse collections. Revenue-sharing and sizable dividend disbursement are game for the most devoted investors, all funded from future project endeavors! In other words, those who represent the Devil Cats community will receive these dividends from future ToonVerse creations, mini collections, 1 of 1 collections, and “ArtPad” launch projects that get accepted.",
-  "image": "https://toonverse.s3.amazonaws.com/1000.png",
-  "pixel": "https://toonverse.s3.amazonaws.com/pixel_images/A/1000.png",
-  "animation_url": "https://vnm6m38fj2.execute-api.us-east-1.amazonaws.com/getToon/?id=1000",
-  "original_image": "https://toonverse.s3.amazonaws.com/default.png",
+  "image": "https://devilcatz.s3.us-east-2.amazonaws.com/images/1000.png",
+  "pixel": "https://devilcatz.s3.us-east-2.amazonaws.com/A/1000.png",
+  "animation_url": "https://pnmhsm44k7.execute-api.us-east-2.amazonaws.com/toonStage/?id=1000",
+  "original_image": "https://devilcatz.s3.us-east-2.amazonaws.com/images/DevilCats.png",
   "edition": 1,
   "date": 1665961392734,
   "attributes": [
     {
       "trait_type": "1:1",
       "value": "Custom Cat"
+    },
+    {
+      "trait_type": "CrazyCloudClan",
+      "value": "Snowy"
+    },
+    {
+      "trait_type": "FruitTownGremlins.Wtf",
+      "value": "Banana"
     }
   ]
 }
